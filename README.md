@@ -1,0 +1,317 @@
+[index.html](https://github.com/user-attachments/files/25368016/index.html)
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>雷克斯娛樂館</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- 導覽列 -->
+  <header class="navbar">
+    <div class="logo">雷克斯娛樂館</div>
+    <nav>
+      <a href="https://lin.ee/iYMZagC" target="_blank">聯絡我們</a>
+    </nav>
+  </header>
+
+  <!-- 主視覺 -->
+  <section class="hero">
+    <h1>安全 · 快速 · 專業的尋寶平台</h1>
+    <p>熱門商品即時供應</p>
+  </section>
+
+  <!-- 商品區 -->
+  <section class="products">
+    <h2>帳號尋寶 遊戲項目</h2>
+
+    <div class="product-grid">
+
+
+      <div class="card">
+        <h3>Pokemon TCG Pocket(網站1)</h3>
+<a href="https://gachaplus.com/pokemontcgp/search" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+      <div class="card">
+        <h3>Pokemon TCG Pocket(網站2)</h3>
+<a href="http://jdwlgame.com/tcgp/" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+      <div class="card">
+        <h3>SD 鋼彈G 世代永恆(網站1)</h3>
+<a href="https://www.naonaocs.cn/gaoda" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+      <div class="card">
+        <h3>SD 鋼彈G 世代永恆(網站2)</h3>
+<a href="https://zxw.wiki/gd" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+      <div class="card">
+        <h3>BLEACH：刀鳴</h3>
+<a href="http://jdwlgame.com/jjdm/" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+      <div class="card">
+        <h3>七騎士RE:BIRTH(網站1)</h3>
+<a href="http://152.136.133.249/item?id=313&user_id=10393" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+      <div class="card">
+        <h3>七騎士RE:BIRTH(網站2)</h3>
+<a href="http://8.134.204.217:8080/guagua/35" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>勝利女神(網站1)</h3>
+<a href="http://my.jiankj.cn:81/Games/NIKKE/index.php" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>絕區零</h3>
+<a href="http://www.jdwlgame.com/zzz/" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>光與夜之戀</h3>
+<a href="http://jdwlgame.com/gyy/" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>鳴潮</h3>
+<a href="http://jdwlgame.com/whglobal/" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>蔚藍檔案</h3>
+<a href="http://chushi.chanshiguan.me/51" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>魔法少女小圓 Magia Exedra(網站1)</h3>
+<a href="https://gachaplus.com/magiaexedraen/search" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>魔法少女小圓 Magia Exedra(網站2)</h3>
+<a href="https://s.amaoto.moe/#/madodoraen/combo" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>卡厄思夢境(網站1)</h3>
+<a href="https://show898.com/xk/kesmj" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>卡厄思夢境(網站2)</h3>
+<a href="http://124.221.244.183:8080/front/59" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>勝利女神(網站2)</h3>
+<a href="http://chushi.chanshiguan.me/75" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>更新中</h3>
+<a href="" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>更新中</h3>
+<a href="" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>更新中</h3>
+<a href="" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>更新中</h3>
+<a href="" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>更新中</h3>
+<a href="" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>更新中</h3>
+<a href="" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>更新中</h3>
+<a href="" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>Pokemon GO</h3>
+<a href="https://lin.ee/iYMZagC" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+
+      <div class="card">
+        <h3>遊戲王 決鬥聯盟 Yu-Gi-Oh! Duel Links</h3>
+<a href="https://lin.ee/iYMZagC" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>遊戲王 MASTER DUEL</h3>
+<a href="https://lin.ee/iYMZagC" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>神魔之塔</h3>
+<a href="https://lin.ee/iYMZagC" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>貓咪大戰爭</h3>
+<a href="https://lin.ee/iYMZagC" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>釣魚發燒友</h3>
+<a href="https://lin.ee/iYMZagC" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>七龍珠激戰傳說</h3>
+<a href="https://lin.ee/iYMZagC" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>七龍珠爆裂激戰</h3>
+<a href="https://lin.ee/iYMZagC" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>Garena 三角洲行動</h3>
+<a href="https://lin.ee/iYMZagC" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>Pokémon HOME</h3>
+<a href="https://lin.ee/iYMZagC" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+      <div class="card">
+        <h3>原神</h3>
+<a href="https://lin.ee/iYMZagC" target="_blank" class="btn">
+  查看詳情
+</a>      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </section>
+
+  <!-- 頁尾 -->
+  <footer>
+    © 2025 雷克斯娛樂館
+  </footer>
+
+</body>
+</html>
